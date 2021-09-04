@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vishal
 - 👀 I’m interested in OpenSource technologies 
-- 🌱 I’m currently learning Blockchain uses other then cryptocurreny ...
-- 💞️ I’m looking to collaborate on Python based Opensource projects for now
+- 🌱 I’m currently learning and working on odoo
+- 💞️ I’m looking to collaborate on Python based Opensource projects 
 - 📫 How to reach me , you reach me on instagram @108_chaos
 
 <!---
