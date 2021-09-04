@@ -2,7 +2,7 @@
 - 👀 I’m interested in OpenSource technologies 
 - 🌱 I’m currently learning and working on odoo
 - 💞️ I’m looking to collaborate on Python based Opensource projects 
-- 📫 How to reach me , you reach me on instagram @108_chaos
+- 📫 How to reach me , here is my linkedin vishal-sindham-4089b521b
 
 <!---
 visins/visins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
