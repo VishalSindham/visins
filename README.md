@@ -1,8 +1,8 @@
 - 👋 Hi, I’m vishal
 - 👀 I’m interested in OpenSource technologies 
-- 🌱 I’m currently learning and working on odoo
+- 🌱 I’m currently learning and working 
 - 💞️ I’m looking to collaborate on Python based Opensource projects 
-- 📫 How to reach me , here is my linkedin vishal-sindham-4089b521b
+- 📫 How to reach me , here is my linkedin https://www.linkedin.com/in/vishal-sindham/
 
 <!---
 visins/visins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
